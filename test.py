@@ -19,3 +19,5 @@ dog2 = Dog('grey' , 'Sergei', 'Male')
 Dog.change_color('pink')
 
 print(dog1.color, dog2.color)
+
+# This is a test message
